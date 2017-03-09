@@ -2,6 +2,8 @@ This was forked from https://github.com/nathanpryor/donation_button
 
 In addition to the instructions below, you'll also need to have to make sure your AWS SNS stuff is set up to send texts.
 
+Instructions for SNS here: https://docs.aws.amazon.com/sns/latest/dg/sms_publish-to-phone.html
+
 # donation_button
 This Python script was a quick-and-dirty solution to build an Amazon Dash button that would donate to the DSA!
 
