@@ -1,5 +1,3 @@
-*UNTESTED*
-
 This was forked from https://github.com/nathanpryor/donation_button 
 
 In addition to the instructions below, you'll also need to have to make sure your AWS SNS stuff is set up to send texts.
